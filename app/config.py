@@ -2,7 +2,7 @@
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 # Path to the dataset
-DATASET_PATH = "data/dataset.json"
+DATASET_PATH = "data\SM Technology.pdf"
 
 # Generation parameters
 MAX_LENGTH = 200
