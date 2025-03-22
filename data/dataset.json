@@ -1,0 +1,103 @@
+{
+    "company": {
+      "name": "SM Technology",
+      "parent_company": "bdCalling IT",
+      "description": "SM Technology is a leading IT service provider and a sister concern of bdCalling IT. It specializes in mobile app development, website development, AI solutions, CMS development, and data entry services.",
+      "parent_company_info": {
+        "name": "bdCalling IT",
+        "global_presence": "bdCalling IT is a global company with six sister concerns.",
+        "ceo": "MD. Monir Hossain",
+        "chairperson": "MST. Sabina Akter",
+        "owner": "MD. Monir Hossain",
+        "sister_concerns": [
+          "Spart Tech Agency",
+          "Softvence",
+          "SM Technology",
+          "Back Bancher",
+          "Galaxy",
+          "BdCalling Academy"
+        ]
+      },
+      "management": {
+        "general_manager": "MD. Shamim Miah",
+        "gm_sales": "MD. Jabed"
+      }
+    },
+    "services": [
+      {
+        "name": "Mobile App Development",
+        "description": "We create high-performance Android and iOS mobile applications using Flutter, React Native, and native technologies."
+      },
+      {
+        "name": "Website Development",
+        "description": "Custom website design and development using technologies like React, Next.js, Laravel, and WordPress."
+      },
+      {
+        "name": "Artificial Intelligence (AI) Solutions",
+        "description": "We build AI-powered applications, chatbots, and machine learning solutions for various industries."
+      },
+      {
+        "name": "CMS Development",
+        "description": "We provide content management system (CMS) development solutions using WordPress, Strapi, and custom-built frameworks."
+      },
+      {
+        "name": "Data Entry Services",
+        "description": "We offer accurate and efficient data entry services for businesses and enterprises."
+      }
+    ],
+    "pricing": {
+      "mobile_app": "Starts at $3,500",
+      "website_development": "Starts at $2,500",
+      "ai_solutions": "Custom pricing based on requirements",
+      "cms_development": "Starts at $1,000",
+      "data_entry": "Starts at $500 per project"
+    },
+    "tech_stack": ["React", "Next.js", "Laravel", "Flutter", "React Native", "Python", "Node.js", "WordPress", "Strapi"],
+    "faq": [
+      {
+        "question": "Who is the CEO of SM Technology?",
+        "answer": "SM Technology is a sister concern of bdCalling IT. The CEO of bdCalling IT is MD. Monir Hossain."
+      },
+      {
+        "question": "Who is the GM of SM Technology?",
+        "answer": "The General Manager (GM) of SM Technology is MD. Shamim Miah."
+      },
+      {
+        "question": "Who is the GM of Sales in SM Technology?",
+        "answer": "The GM of Sales at SM Technology is MD. Jabed."
+      },
+      {
+        "question": "What services does SM Technology offer?",
+        "answer": "SM Technology provides mobile app development, website development, AI solutions, CMS development, and data entry services."
+      },
+      {
+        "question": "What is the relationship between SM Technology and bdCalling IT?",
+        "answer": "SM Technology is a sister concern of bdCalling IT, which is a global company with six sister concerns."
+      },
+      {
+        "question": "Which technologies does SM Technology use?",
+        "answer": "SM Technology works with React, Next.js, Laravel, Flutter, React Native, Python, Node.js, WordPress, and Strapi."
+      },
+      {
+        "question": "How much does website development cost?",
+        "answer": "Website development at SM Technology starts at $2,500, depending on project requirements."
+      },
+      {
+        "question": "How much does mobile app development cost?",
+        "answer": "Mobile app development starts at $3,500, with pricing depending on complexity and features."
+      },
+      {
+        "question": "Does SM Technology offer AI solutions?",
+        "answer": "Yes, SM Technology provides AI-powered solutions, including chatbots, machine learning applications, and automation."
+      },
+      {
+        "question": "Who is the owner of bdCalling IT?",
+        "answer": "The owner of bdCalling IT is MD. Monir Hossain."
+      },
+      {
+        "question": "What are the sister concerns of bdCalling IT?",
+        "answer": "The sister concerns of bdCalling IT are: Spart Tech Agency, Softvence, SM Technology, Back Bancher, Galaxy, and BdCalling Academy."
+      }
+    ]
+  }
+  
