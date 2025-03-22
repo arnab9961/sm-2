@@ -1,9 +1,12 @@
 fastapi==0.104.0
 uvicorn==0.23.2
 pydantic==2.4.2
-sentence-transformers==2.2.2
+sentence-transformers  # Remove the version constraint to get the latest
 scikit-learn==1.3.1
 jinja2==3.1.2
 python-dotenv==1.0.0
 google-generativeai==0.3.1
 numpy==1.24.3
+huggingface_hub  # Necessary for sentence-transformers
+requests  # Often used by sentence-transformers and huggingface_hub
+python-multipart # Used for form data/file uploads with fastapi
